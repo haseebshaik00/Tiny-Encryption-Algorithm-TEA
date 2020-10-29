@@ -8,9 +8,9 @@ The Tiny Encryption Algorithm (TEA) is one of the fastest and most efficient cry
 # Modules 
 1) Data Segment 
 2) Code Segment
-    i) Take input of the plain text
-    ii) Take input of the key
-    iii) Main Module
-    iv) Encryption Module
-    v) Decryption Module 
-    vi) Print Module
+    a) Take input of the plain text
+    b) Take input of the key
+    c) Main Module
+    d) Encryption Module
+    e) Decryption Module 
+    f) Print Module
